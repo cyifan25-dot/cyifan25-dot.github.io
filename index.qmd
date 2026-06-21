@@ -1,20 +1,18 @@
 ---
-title: "My AD688 Website"
+title: "Home"
 ---
 
-# Welcome to My Website
+# Welcome
 
-This is my first Quarto website for AD688.
+Welcome to my portfolio website.
 
-## Python Example
+This website was created to showcase my academic background, analytics projects, technical skills, and professional development.
 
-```{python}
-import pandas as pd
+Please use the navigation bar above to learn more about:
 
-df = pd.DataFrame({
-    "Student": ["Tom", "Alice", "Bob"],
-    "Score": [90, 85, 95]
-})
+- About Me
+- Academic and Analytics Projects
+- Curriculum Vitae (CV)
+- Contact Information
 
-df
-```
+Thank you for visiting my website.

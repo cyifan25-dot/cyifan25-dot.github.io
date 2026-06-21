@@ -2,16 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My AD688 Website",
+    "title": "Home",
     "section": "",
-    "text": "This is my first Quarto website for AD688.\n\n\n\nimport pandas as pd\n\ndf = pd.DataFrame({\n    \"Student\": [\"Tom\", \"Alice\", \"Bob\"],\n    \"Score\": [90, 85, 95]\n})\n\ndf\n\n\n\n\n\n\n\n\nStudent\nScore\n\n\n\n\n0\nTom\n90\n\n\n1\nAlice\n85\n\n\n2\nBob\n95"
-  },
-  {
-    "objectID": "index.html#python-example",
-    "href": "index.html#python-example",
-    "title": "My AD688 Website",
-    "section": "",
-    "text": "import pandas as pd\n\ndf = pd.DataFrame({\n    \"Student\": [\"Tom\", \"Alice\", \"Bob\"],\n    \"Score\": [90, 85, 95]\n})\n\ndf\n\n\n\n\n\n\n\n\nStudent\nScore\n\n\n\n\n0\nTom\n90\n\n\n1\nAlice\n85\n\n\n2\nBob\n95"
+    "text": "Welcome\nWelcome to my portfolio website.\nThis website was created to showcase my academic background, analytics projects, technical skills, and professional development.\nPlease use the navigation bar above to learn more about:\n\nAbout Me\nAcademic and Analytics Projects\nCurriculum Vitae (CV)\nContact Information\n\nThank you for visiting my website."
   },
   {
     "objectID": "about.html",
