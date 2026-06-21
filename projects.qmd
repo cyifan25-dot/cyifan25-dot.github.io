@@ -72,4 +72,6 @@ Model evaluation was performed using ROC curves, confusion matrices, and classif
 
 ## Project Website
 
-[View the project website](https://frjulie8-proj.github.io/repoad688-employability-sum26-groupB/)
+<a href="https://frjulie8-proj.github.io/repoad688-employability-sum26-groupB/" target="_blank">
+View Project Website
+</a>
