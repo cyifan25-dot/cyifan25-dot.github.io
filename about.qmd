@@ -1,5 +1,21 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+My name is **Yifan Cui**, and I am currently pursuing a **Master of Science in Applied Business Analytics** at **Boston University**.
+
+I previously earned a bachelor's degree in **Mathematics and Business Administration** from **Northeastern University**. My academic background has helped me build a strong foundation in quantitative reasoning, business analysis, and data-driven decision-making.
+
+My interests include:
+
+- Business Analytics
+- Data Analytics
+- Data Visualization
+- Machine Learning
+- Business Intelligence
+
+I enjoy using data to identify patterns, solve problems, and communicate insights clearly. Through my coursework and projects, I have worked with tools such as **Python**, **SQL**, **Tableau**, **Power BI**, **Excel**, and **GitHub**.
+
+My career goal is to work in data analytics, business intelligence, or applied analytics, where I can combine technical skills with business knowledge to support better decisions.
