@@ -1,0 +1,80 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+[Download My Full CV](YC_CV_inEn.pdf)
+
+## Education
+
+### Boston University
+
+Master of Science in Business Analytics
+
+Expected Graduation: March 2027
+
+Relevant Coursework:
+
+- Data Mining
+- Machine Learning
+- Business Analytics Modeling
+- SQL and Data Management
+- Predictive Analytics
+- Business Decision Optimization
+
+### Northeastern University
+
+Bachelor of Science in Mathematics and Business Administration
+
+Graduated: May 2025
+
+Relevant Coursework:
+
+- Linear Algebra
+- Probability and Statistics
+- Calculus I–III
+- Financial Accounting
+- Corporate Finance
+
+## Professional Experience
+
+### National Institute of Financial Research, Tsinghua University
+
+FinTech / Data Research Intern
+
+August 2024 – November 2024
+
+- Supported financial-domain large language model (LLM) projects
+- Assisted with financial dataset construction, cleaning, and annotation
+- Participated in model testing and performance evaluation
+
+### China Life Asset Management Co., Ltd.
+
+Financial Technology Intern
+
+June 2023 – August 2023
+
+- Collected and analyzed financial and investment data
+- Supported industry research and analytical reporting
+- Assisted with data modeling and validation tasks
+
+## Technical Skills
+
+- Python
+- SQL
+- Git & GitHub
+- Tableau
+- Power BI
+- Microsoft Excel
+
+## Career Interests
+
+I am interested in opportunities related to:
+
+- Business Analytics
+- Data Analytics
+- Financial Analytics
+- Business Intelligence
+- Applied Data Science
+- Analytics Consulting
