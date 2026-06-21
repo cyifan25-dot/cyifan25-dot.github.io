@@ -4,7 +4,9 @@ title: "CV"
 
 # Curriculum Vitae
 
-[Download My Full CV](YC_CV_inEn.pdf)
+<a href="YC_CV_inEn.pdf" target="_blank">
+Download My Full CV
+</a>
 
 ## Education
 
