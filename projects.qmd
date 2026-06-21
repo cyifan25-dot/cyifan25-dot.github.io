@@ -1,0 +1,75 @@
+---
+title: "Projects"
+---
+
+# Employability Analytics Project
+
+## Overview
+
+This project was completed as part of the AD688 course at Boston University. The objective was to analyze workforce trends, gender disparities, and employment outcomes using large-scale labor market datasets.
+
+The project combined data engineering, exploratory data analysis, machine learning, and data visualization to generate insights into employment patterns across industries and regions in the United States.
+
+## Research Questions
+
+- How large is the gender pay gap among U.S. workers?
+- Do gender-based employment disparities vary between red and blue states?
+- How does workforce representation change across occupations and industries?
+- Can machine learning models identify patterns related to gender and wages?
+
+## Data Sources
+
+### IPUMS Workforce Dataset
+
+The IPUMS dataset provided workforce information including demographic characteristics, employment status, occupation, industry, and wages.
+
+### Lightcast Job Postings Dataset
+
+The Lightcast dataset provided employer demand information including job postings, skills, education requirements, salary ranges, and labor market trends.
+
+## Methodology
+
+### Data Preparation
+
+The project involved extracting, cleaning, transforming, and integrating multiple datasets through an ETL pipeline. Data preparation included handling missing values, restructuring relational tables, and preparing analysis-ready datasets.
+
+### Exploratory Data Analysis
+
+Exploratory analysis was conducted to investigate:
+
+- Employment rates by age group and gender
+- Wage distributions across states
+- Gender wage disparities
+- Industry and occupational trends
+
+### Machine Learning
+
+Machine learning models were developed to explore predictive relationships within the workforce data.
+
+Models included:
+
+- Logistic Regression
+- Random Forest
+
+Model evaluation was performed using ROC curves, confusion matrices, and classification performance measures.
+
+## Key Findings
+
+- Gender wage disparities exist across industries and regions.
+- Employment rates vary across age groups and genders.
+- Wage gaps are observed across the United States, although their magnitude differs by state.
+- Machine learning models identified meaningful patterns related to gender and wage outcomes.
+
+## Technologies Used
+
+- Python
+- Pandas
+- SQL
+- Plotly
+- GitHub
+- Quarto
+- Machine Learning
+
+## Project Website
+
+[View the project website](https://frjulie8-proj.github.io/repoad688-employability-sum26-groupB/)

@@ -7,6 +7,62 @@
     "text": "Welcome\nWelcome to my portfolio website.\nThis website was created to showcase my academic background, analytics projects, technical skills, and professional development.\nPlease use the navigation bar above to learn more about:\n\nAbout Me\nAcademic and Analytics Projects\nCurriculum Vitae (CV)\nContact Information\n\nThank you for visiting my website."
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project was completed as part of the AD688 course at Boston University. The objective was to analyze workforce trends, gender disparities, and employment outcomes using large-scale labor market datasets.\nThe project combined data engineering, exploratory data analysis, machine learning, and data visualization to generate insights into employment patterns across industries and regions in the United States.\n\n\n\n\nHow large is the gender pay gap among U.S. workers?\nDo gender-based employment disparities vary between red and blue states?\nHow does workforce representation change across occupations and industries?\nCan machine learning models identify patterns related to gender and wages?\n\n\n\n\n\n\nThe IPUMS dataset provided workforce information including demographic characteristics, employment status, occupation, industry, and wages.\n\n\n\nThe Lightcast dataset provided employer demand information including job postings, skills, education requirements, salary ranges, and labor market trends.\n\n\n\n\n\n\nThe project involved extracting, cleaning, transforming, and integrating multiple datasets through an ETL pipeline. Data preparation included handling missing values, restructuring relational tables, and preparing analysis-ready datasets.\n\n\n\nExploratory analysis was conducted to investigate:\n\nEmployment rates by age group and gender\nWage distributions across states\nGender wage disparities\nIndustry and occupational trends\n\n\n\n\nMachine learning models were developed to explore predictive relationships within the workforce data.\nModels included:\n\nLogistic Regression\nRandom Forest\n\nModel evaluation was performed using ROC curves, confusion matrices, and classification performance measures.\n\n\n\n\n\nGender wage disparities exist across industries and regions.\nEmployment rates vary across age groups and genders.\nWage gaps are observed across the United States, although their magnitude differs by state.\nMachine learning models identified meaningful patterns related to gender and wage outcomes.\n\n\n\n\n\nPython\nPandas\nSQL\nPlotly\nGitHub\nQuarto\nMachine Learning\n\n\n\n\nView the project website"
+  },
+  {
+    "objectID": "projects.html#overview",
+    "href": "projects.html#overview",
+    "title": "Projects",
+    "section": "",
+    "text": "This project was completed as part of the AD688 course at Boston University. The objective was to analyze workforce trends, gender disparities, and employment outcomes using large-scale labor market datasets.\nThe project combined data engineering, exploratory data analysis, machine learning, and data visualization to generate insights into employment patterns across industries and regions in the United States."
+  },
+  {
+    "objectID": "projects.html#research-questions",
+    "href": "projects.html#research-questions",
+    "title": "Projects",
+    "section": "",
+    "text": "How large is the gender pay gap among U.S. workers?\nDo gender-based employment disparities vary between red and blue states?\nHow does workforce representation change across occupations and industries?\nCan machine learning models identify patterns related to gender and wages?"
+  },
+  {
+    "objectID": "projects.html#data-sources",
+    "href": "projects.html#data-sources",
+    "title": "Projects",
+    "section": "",
+    "text": "The IPUMS dataset provided workforce information including demographic characteristics, employment status, occupation, industry, and wages.\n\n\n\nThe Lightcast dataset provided employer demand information including job postings, skills, education requirements, salary ranges, and labor market trends."
+  },
+  {
+    "objectID": "projects.html#methodology",
+    "href": "projects.html#methodology",
+    "title": "Projects",
+    "section": "",
+    "text": "The project involved extracting, cleaning, transforming, and integrating multiple datasets through an ETL pipeline. Data preparation included handling missing values, restructuring relational tables, and preparing analysis-ready datasets.\n\n\n\nExploratory analysis was conducted to investigate:\n\nEmployment rates by age group and gender\nWage distributions across states\nGender wage disparities\nIndustry and occupational trends\n\n\n\n\nMachine learning models were developed to explore predictive relationships within the workforce data.\nModels included:\n\nLogistic Regression\nRandom Forest\n\nModel evaluation was performed using ROC curves, confusion matrices, and classification performance measures."
+  },
+  {
+    "objectID": "projects.html#key-findings",
+    "href": "projects.html#key-findings",
+    "title": "Projects",
+    "section": "",
+    "text": "Gender wage disparities exist across industries and regions.\nEmployment rates vary across age groups and genders.\nWage gaps are observed across the United States, although their magnitude differs by state.\nMachine learning models identified meaningful patterns related to gender and wage outcomes."
+  },
+  {
+    "objectID": "projects.html#technologies-used",
+    "href": "projects.html#technologies-used",
+    "title": "Projects",
+    "section": "",
+    "text": "Python\nPandas\nSQL\nPlotly\nGitHub\nQuarto\nMachine Learning"
+  },
+  {
+    "objectID": "projects.html#project-website",
+    "href": "projects.html#project-website",
+    "title": "Projects",
+    "section": "",
+    "text": "View the project website"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
